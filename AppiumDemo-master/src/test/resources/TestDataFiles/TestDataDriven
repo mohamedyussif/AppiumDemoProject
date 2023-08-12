@@ -1,0 +1,12 @@
+{
+  "Entered Word" : "Appium",
+  "Expected Word" : "Appium",
+  "Accessibility node provider field" : "Accessibility Node Provider",
+  "Chosen Checkbox" : "Conquer World",
+  "Chosen Checkbox Assertion" : "Conquer World",
+  "Graphics Scaletofit Tap" : "ScaleToFit",
+  "Graphics vertices Tap" : "Vertices",
+  "Views Radiobox Tap" : "Radio Group",
+  "Chosen Radiobox" : "Breakfast",
+  "Chosen Radiobox Assertion" : "Breakfast"
+}
